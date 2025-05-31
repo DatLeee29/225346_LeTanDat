@@ -1,2 +1,3 @@
 Name: Le Tan Dat
 Interests: Coding, Desgin, gamer
+Skills: Python, JavaScript
